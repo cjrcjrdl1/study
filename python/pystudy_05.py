@@ -33,7 +33,7 @@ class Vector():
 # Vector 인스턴스 생성
 v1 = Vector(1,2)
 v2 = Vector(44,55)
-v3 = Vector()
+v3 = Vector() # (0,0)
 
 # 매직메소드 출력
 print(Vector.__init__.__doc__)
